@@ -7,7 +7,7 @@ Modified by Andrei Telteu to work with the latest modifications by Youtube's pub
 # Install
 Install this fork using this command:
 ```bash
-composer require onlinedigital/php-subscriber
+composer require onlinedigital/pubsubhubbub-php-subscriber
 ```
 
 # Usage

@@ -1,5 +1,6 @@
 {
-    "name": "pubsubhubbub/subscriber",
+    "name": "onlinedigital/pubsubhubbub-php-subscriber",
+    "version": "2.0.0",
     "type": "library",
     "description": "pubsubhubbub implementation of subscriber.",
     "keywords": ["pubsubhubbub", "subscribers", "data", "feeds"],
@@ -9,6 +10,10 @@
         {
             "name": "pubsubhubbub subscriber Contributors",
             "homepage": "https://github.com/pubsubhubbub/php-subscriber/contributors"
+        },
+        {
+            "name": "AndreiTelteu @ OnlineDigital",
+            "homepage": "https://github.com/OnlineDigital/pubsubhubbub-php-subscriber"
         }
     ],
     "require": {

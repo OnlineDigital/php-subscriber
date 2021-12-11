@@ -102,6 +102,19 @@ class Subscriber
         return $rss_url;
     }
 
+    public function setVerify($value)
+    {
+        $this->verify = $value;
+    }
+    public function setVerifyToken($value)
+    {
+        $this->verify_token = $value;
+    }
+    public function setLeaseSeconds($value)
+    {
+        $this->lease_seconds = $value;
+    }
+
     /**
      * Subscribe to a topic.
      *

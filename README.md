@@ -2,10 +2,12 @@ This PHP library implements a subscriber for PubSubHubbub.
 
 It was written by [Josh Fraser](http://joshfraser.com) and is released under the Apache 2.0 License
 
+Modified by Andrei Telteu to work with the latest modifications by Youtube's pubsubhubbub service to allow challenge verification.
+
 # Install
-Update your `composer` require block:
-```json
-"require": { "pubsubhubbub/subscriber": "*" }
+Install this fork using this command:
+```bash
+composer require onlinedigital/php-subscriber
 ```
 
 # Usage
